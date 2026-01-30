@@ -11,7 +11,7 @@ Kexun Shen: 沈可勋
 ## About Me
 Interests: 
 - wave turbulence, turbulence closure modeling
-- kinetic Alfv\'en wave
+- kinetic Alfven wave
 - non-resonant streaming instability
 - nonlinear gyrokinetics
 - solar wind, cosmic ray, tokamak
