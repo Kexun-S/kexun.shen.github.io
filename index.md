@@ -16,6 +16,8 @@ Interests:
 - nonlinear gyrokinetics
 - solar wind, cosmic ray, tokamak
 
+I have an inclination to nonlinear plasma physics problems that can be treated by closure models, e.g. weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, high-energy astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
+
 ## Recent Works
 - Project A
 - Project B
