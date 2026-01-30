@@ -26,7 +26,7 @@ I tend to look at firstly the conservative properties and symmetries of a self-c
 
 ## Recent Works
 
-<img src="/images/KAW_PDI.png" width="150">
+<img src="KAW_PDI.png" width="150">
 
 ## Education
 - Zhejiang University, IFTS, PhD
