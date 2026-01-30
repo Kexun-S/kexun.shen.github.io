@@ -4,7 +4,7 @@ Kexun Shen: 沈可勋
 
 # Info 
 
-- E-mail: kxshen10@zju.edu.cn
+- Contact: kxshen10@zju.edu.cn
 - [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-0512-6273)
 
@@ -25,8 +25,6 @@ I have an inclination to nonlinear plasma physics problems that can be treated b
 I tend to look at firstly the conservative properties and symmetries of a self-consistent system, sometimes based on its (non-)canonical Hamiltonian picture, including Lie-Poisson brackets and Casimir invariants. Instabilities, nonlinear dynamics and statistical properties can then be analyzed. Deterministic mode-couplings and statistical closure models, at this stage, can offer physical pictures and insights, while details and verifications are delivered by parallel numerical simulations.
 
 ## Recent Works
-- Project A
-- Project B
 
 ## Education
 - Zhejiang University, IFTS, PhD
