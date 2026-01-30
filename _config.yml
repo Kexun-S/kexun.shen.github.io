@@ -1,1 +1,7 @@
+title: Kexun Shen Personal Website
+description: A github page to present my scientific info
+author: Kexun
+markdown: kramdown
+url: https://kexun.shen.github.io
+baseurl: ""
 theme: jekyll-theme-minimal
