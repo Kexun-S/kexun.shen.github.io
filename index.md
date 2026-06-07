@@ -15,7 +15,7 @@ Kexun Shen: 沈可勋
 - nonlinear gyrokinetics
 - solar wind, cosmic ray, tokamak
 
-I have an inclination to nonlinear plasma physics problems that can be treated by closure models, e.g. weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
+I have an inclination to nonlinear plasma physics problems that can be treated by self-consistent theory and closure models, e.g. quasi-linear theory, mean-field theory, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
 
 ## Research Style
 
@@ -35,6 +35,6 @@ Resonant Decay among Three Kinetic-Alfven-Waves
 <img src="KAW_PDI.png" width="300">
 
 ## Education
-- Zhejiang University, IFTS, PhD
-- INAF, OAA, joint-PhD
-- Zhejiang University, School of Physics & CKC, BSc
+- Zhejiang University, IFTS, direct-to-PhD, 2023-2028
+- INAF, OAA, joint-PhD, 2025-2026
+- Zhejiang University, School of Physics & CKC, BSc, 2019-2023
