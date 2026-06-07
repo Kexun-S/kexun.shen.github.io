@@ -21,6 +21,11 @@ I have an inclination to nonlinear plasma physics problems that can be treated b
 
 I tend to look at firstly the conservative properties and symmetries of a self-consistent system, sometimes based on its (non-)canonical Hamiltonian picture, including Lie-Poisson brackets and Casimir invariants. Instabilities, nonlinear dynamics and statistical properties can then be analyzed. Deterministic mode-couplings and statistical closure models, at this stage, can offer physical pictures and insights, while details and verifications are delivered by parallel numerical simulations.
 
+## Education
+- Zhejiang University, IFTS, direct-to-PhD, 2023-2028
+- INAF, OAA, joint-PhD, 2025-2026
+- Zhejiang University, School of Physics & CKC, BSc, 2019-2023
+
 ## Recent Works
 
 Mean-Field Theory for Cosmic-Ray Streaming Instabilities
@@ -33,8 +38,3 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 
 Resonant Decay among Three Kinetic-Alfven-Waves
 <img src="KAW_PDI.png" width="300">
-
-## Education
-- Zhejiang University, IFTS, direct-to-PhD, 2023-2028
-- INAF, OAA, joint-PhD, 2025-2026
-- Zhejiang University, School of Physics & CKC, BSc, 2019-2023
