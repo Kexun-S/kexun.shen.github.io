@@ -2,7 +2,7 @@
 Kexun Shen: 沈可勋
 ---
 
-# Info 
+# Information 
 
 - Contact: kxshen10@zju.edu.cn
 - [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)
@@ -10,22 +10,28 @@ Kexun Shen: 沈可勋
 
 ## Scientific Interests
 
+- mean-field theory, beam-plasma system
 - wave turbulence, turbulence closure modeling
 - nonlinear gyrokinetics
 - solar wind, cosmic ray, tokamak
 
-Specific interests:
-- kinetic Alfven wave (L.Chen&A.Hasegawa)
-- non-resonant streaming instability (Bell's instability)
+I have an inclination to nonlinear plasma physics problems that can be treated by closure models, e.g. weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
 
-I have an inclination to nonlinear plasma physics problems that can be treated by closure models, e.g. weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, high-energy astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
-
-## Philosophy
+## Research Style
 
 I tend to look at firstly the conservative properties and symmetries of a self-consistent system, sometimes based on its (non-)canonical Hamiltonian picture, including Lie-Poisson brackets and Casimir invariants. Instabilities, nonlinear dynamics and statistical properties can then be analyzed. Deterministic mode-couplings and statistical closure models, at this stage, can offer physical pictures and insights, while details and verifications are delivered by parallel numerical simulations.
 
 ## Recent Works
 
+Mean-Field Theory for Cosmic-Ray Streaming Instabilities
+
+Wave--Mean-Field Interaction in Non-Resonant Streaming Instability (Bell's Instability)
+
+Imbalanced Strong Kinetic-Alfvenic Turbulence
+
+Imbalanced Weak Kinetic-Alfvenic Turbulence
+
+Resonant Decay among Three Kinetic-Alfven-Waves
 <img src="KAW_PDI.png" width="300">
 
 ## Education
