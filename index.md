@@ -15,11 +15,11 @@ Kexun Shen: 沈可勋
 - nonlinear gyrokinetics
 - solar wind, cosmic ray, tokamak
 
-I have an inclination to nonlinear plasma physics problems that can be treated by self-consistent theory and closure models, e.g. quasi-linear theory, mean-field theory, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation; and numerical simulations. I have been working on space, astrophysical, and fusion plasmas described by fluid, gyrokinetic or kinetic models.
+I have an inclination to nonlinear plasma physics problems that can be treated by self-consistent theory and closure models, e.g., quasi-linear theory, mean-field theory, weak turbulence, dynamo, eddy-damped quasi-normal Markovian (EDQNM) approximation, etc.; and numerical simulations. I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid or kinetic models.
 
 ## Research Style
 
-I tend to look at firstly the conservative properties and symmetries of a self-consistent system, sometimes based on its (non-)canonical Hamiltonian picture, including Lie-Poisson brackets and Casimir invariants. Instabilities, nonlinear dynamics and statistical properties can then be analyzed. Deterministic mode-couplings and statistical closure models, at this stage, can offer physical pictures and insights, while details and verifications are delivered by parallel numerical simulations.
+I tend to look at firstly the conservative properties and symmetries of a self-consistent system, sometimes based on its (non-)canonical Hamiltonian picture, including Lie-Poisson brackets and Casimir invariants. Instabilities, nonlinear dynamics and statistical properties can then be analyzed. Deterministic mode-couplings and statistical closure models, at this stage, can offer physical pictures and insights, while details and verifications are delivered by HPC numerical simulations.
 
 ## Education
 - Zhejiang University, IFTS, direct-to-PhD, 2023-2028
@@ -36,5 +36,5 @@ Imbalanced Strong Kinetic-Alfvenic Turbulence
 
 Imbalanced Weak Kinetic-Alfvenic Turbulence
 
-Resonant Decay among Three Kinetic-Alfven-Waves
+Resonant Decay among Three Kinetic-Alfven-Waves:
 <img src="KAW_PDI.png" width="300">
