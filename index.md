@@ -17,7 +17,7 @@ Email: kxshen10@zju.edu.cn
 
 1. mean-field theory, beam-plasma system
 2. wave turbulence, turbulence closure modeling
-3. coherent mode-coupling, parametric decay, modulation
+3. coherent mode-coupling, parametric decay, modulation, soliton
 4. solar wind, cosmic ray, tokamak, kinetic Alfven wave
 5. analytical mechanics, statistical mechanics, classical field theory
 6. nonlinear gyrokinetics
