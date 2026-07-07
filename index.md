@@ -12,11 +12,11 @@ Kexun Shen: 沈可勋
 
 1. mean-field theory, beam-plasma system
 2. wave turbulence, turbulence closure modeling
-- coherent mode-coupling, parametric decay, modulation
-- solar wind, cosmic ray, tokamak, kinetic Alfven wave
-- analytical mechanics, statistical mechanics, classical field theory
-- nonlinear gyrokinetics
-- numerical simulation (HPC)
+3. coherent mode-coupling, parametric decay, modulation
+4. solar wind, cosmic ray, tokamak, kinetic Alfven wave
+5. analytical mechanics, statistical mechanics, classical field theory
+6. nonlinear gyrokinetics
+7. numerical simulation (HPC)
 
 I have an inclination to nonlinear plasma physics problems that can be treated by self-consistent theory and/or closure models, e.g., quasi-linear theory, field-theoretic (mean-field) theory, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation. I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid or kinetic models. I'm also interested in the applicability boundaries between different models/nonlinear theories. 
 
