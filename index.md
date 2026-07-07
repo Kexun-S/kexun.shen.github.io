@@ -3,11 +3,15 @@ layout: single
 author_profile: true
 ---
 
+<!--
 # Information 
 
 - Contact: kxshen10@zju.edu.cn
 - [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)
 - [ORCID](https://orcid.org/0000-0002-0512-6273)
+-->
+
+Email: kxshen10@zju.edu.cn
 
 ## Scientific Interests
 
