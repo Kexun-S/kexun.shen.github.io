@@ -1,5 +1,6 @@
 ---
-Kexun Shen: 沈可勋
+layout: single
+author_profile: true
 ---
 
 # Information 
