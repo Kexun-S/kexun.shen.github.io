@@ -40,15 +40,13 @@ Here are several aspects I would look into when facing a physics problem:
 Mean-Field Theory for Cosmic-Ray Streaming Instabilities
 
 Wave-Mean-Field Interaction in Non-Resonant Streaming Instability 
--->
 
-Effect of Parallel Mean Flow in the Cosmic-Ray Non-Resonant Streaming Instability (Bell's Instability)
-
-<!--
 Imbalanced Strong Kinetic-Alfvenic Turbulence
 
 Imbalanced Weak Kinetic-Alfvenic Turbulence
 -->
+
+Effect of Parallel Mean Flow in the Cosmic-Ray Non-Resonant Streaming Instability (Bell's Instability)
 
 Resonant Decay among Three Kinetic Alfven Waves:
 <img src="KAW_PDI.png" width="300">
