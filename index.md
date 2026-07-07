@@ -53,9 +53,7 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 
 - Effect of Parallel Mean Flow in the Cosmic-Ray Non-Resonant Streaming Instability (Bell's Instability)
 
-- Resonant Decay among Three Kinetic Alfven Waves (KAWs): [K.Shen et al. 2024 PoP]
-
-The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. 
+- Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. [K.Shen et al. 2024 PoP]
 
 <img src="KAW_PDI.png" width="600">
 
