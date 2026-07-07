@@ -54,6 +54,6 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 Effect of Parallel Mean Flow in the Cosmic-Ray Non-Resonant Streaming Instability (Bell's Instability)
 
 Resonant Decay among Three Kinetic Alfven Waves:
-<img src="KAW_PDI.png" width="500">
+<img src="KAW_PDI.png" width="600">
 
 Other works: nonlinear ion Compton scattering of toroidal Alfven eigenmodes (TAE) in MCF
