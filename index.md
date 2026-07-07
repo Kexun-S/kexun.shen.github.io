@@ -13,7 +13,7 @@ Kexun Shen: 沈可勋
 - mean-field theory, beam-plasma system
 - wave turbulence, turbulence closure modeling
 - coherent mode-coupling, parametric decay, modulation
-- solar wind, cosmic ray, tokamak, kinetic Alfv\'en wave
+- solar wind, cosmic ray, tokamak, kinetic Alfv\'{e}n wave
 - analytical mechanics, statistical mechanics, classical field theory
 - nonlinear gyrokinetics
 - numerical simulation (HPC)
