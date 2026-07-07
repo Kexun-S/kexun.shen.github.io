@@ -30,7 +30,7 @@ My research interests lie in nonlinear plasma physics problems that can be treat
 Here are several aspects I would look into when facing a physics problem:
 - self-consistency: conservative properties, symmetries
 - algebraic properties: quadratic invariants, Lie-Poisson brackets, Casimir invariants
-- linear stability
+- linear stability and equilibrium
 - nonlinear dynamics and spectral evolution
 - statistical models 
 
