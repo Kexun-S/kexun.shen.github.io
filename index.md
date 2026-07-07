@@ -10,10 +10,10 @@ Kexun Shen: 沈可勋
 
 ## Scientific Interests
 
-- mean-field theory, beam-plasma system
-- wave turbulence, turbulence closure modeling
+1. mean-field theory, beam-plasma system
+2. wave turbulence, turbulence closure modeling
 - coherent mode-coupling, parametric decay, modulation
-- solar wind, cosmic ray, tokamak, kinetic Alfv\'{e}n wave
+- solar wind, cosmic ray, tokamak, kinetic Alfven wave
 - analytical mechanics, statistical mechanics, classical field theory
 - nonlinear gyrokinetics
 - numerical simulation (HPC)
@@ -49,4 +49,4 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 Resonant Decay among Three Kinetic-Alfven-Waves:
 <img src="KAW_PDI.png" width="300">
 
-Other works: nonlinear ion Compton scattering of toroidal-Alfv\'en-eigenmodes in MCF
+Other works: nonlinear ion Compton scattering of toroidal-Alfven-eigenmodes in MCF
