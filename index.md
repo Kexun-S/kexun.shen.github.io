@@ -19,7 +19,7 @@ Email: kxshen10@zju.edu.cn
 1. mean-field theory, beam-plasma system
 2. wave turbulence, turbulence closure modeling
 3. coherent mode-coupling, parametric decay, modulation, soliton
-4. solar wind, cosmic ray, tokamak, kinetic Alfven wave
+4. solar wind, cosmic ray, collisionless shock, tokamak, kinetic Alfven wave, Bell's Instability
 5. analytical mechanics, statistical mechanics, classical field theory
 6. nonlinear gyrokinetics
 7. numerical simulation (HPC)
@@ -33,7 +33,7 @@ Here are several aspects I would look into when facing a physics problem:
 - algebraic properties: quadratic invariants, Lie-Poisson brackets, Casimir invariants
 - linear stability and equilibrium
 - nonlinear dynamics and spectral evolution
-- statistical models 
+- non-equilibrium process, statistical properties, and entropy production 
 
 ## Education
 - Zhejiang University, Institute for Fusion Theory and Simulation, direct-to-PhD, 2023-2028
@@ -42,21 +42,17 @@ Here are several aspects I would look into when facing a physics problem:
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
 
-<!--
-Mean-Field Theory for Cosmic-Ray Streaming Instabilities
+- Saturation of Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's instability): 
 
-Wave-Mean-Field Interaction in Non-Resonant Streaming Instability 
-
-Imbalanced Strong Kinetic-Alfvenic Turbulence
-
-Imbalanced Weak Kinetic-Alfvenic Turbulence
--->
-
-- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent mean-field theory is developed to compare quantitatively with simulations.
+- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent mean-field theory is developed to compare quantitatively with simulations.
 
 <img src="effect_PMF.png" width="1000">
 
 ## Recent Work 2: Solar Wind, Kinetic-Alfvenic Turbulence
+
+- Imbalanced Strong Kinetic-Alfvenic Turbulence
+
+- Imbalanced Weak Kinetic-Alfvenic Turbulence
 
 - Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. An inverse-type decay identified for the counter-propagating case. [K.Shen et al. 2024 PoP]
 
