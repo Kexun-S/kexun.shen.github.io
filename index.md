@@ -61,4 +61,4 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 <img src="KAW_PDI.png" width="700">
 
 Other works: 
-- nonlinear ion Compton scattering of toroidal Alfven eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its spectral cascading [Z.Cheng et al. 2025 NF]
+- Nonlinear Ion Compton Scattering of Toroidal Alfven Eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its Spectral Cascading [Z.Cheng et al. 2025 NF]
