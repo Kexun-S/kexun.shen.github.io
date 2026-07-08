@@ -17,9 +17,9 @@ Email: kxshen10@zju.edu.cn
 ## Scientific Interests
 
 1. mean-field theory, beam-plasma system, cosmic-ray streaming instability
-2. wave turbulence, turbulence closure modeling, solar wind
+2. wave turbulence, turbulence closure modeling, plasma kinetic turbulence
 3. coherent mode-coupling, parametric decay, modulation, soliton
-4. collisionless shock, tokamak, space plasma, astrophysical plasma
+4. collisionless shock, tokamak, solar wind
 5. analytical mechanics, statistical mechanics, classical field theory
 6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
@@ -36,8 +36,8 @@ Here are several aspects I would look into when facing a physics problem:
 - non-equilibrium process, statistical properties, and entropy production 
 
 ## Education
-- Zhejiang University, Institute for Fusion Theory and Simulation, direct-to-PhD, 2023-2028
-- INAF - Osservatorio Astrofisico di Arcetri, joint-PhD, 2025-2026
+- Zhejiang University, Institute for Fusion Theory and Simulation, direct-to-PhD, 2023-2028 (Supervisor: Zhiyong Qiu)
+- INAF - Osservatorio Astrofisico di Arcetri, joint-PhD, 2025-2026 (Co-supervisor: Elena Amato)
 - Zhejiang University, School of Physics & CKC, BSc, 2019-2023
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
