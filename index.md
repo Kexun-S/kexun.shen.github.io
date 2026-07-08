@@ -54,11 +54,11 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 
 - Effect of Parallel Mean Flow on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): 
 
-<img src="effect_PMF.png" width="600">
+<img src="effect_PMF.png" width="800">
 
 - Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. [K.Shen et al. 2024 PoP]
 
-<img src="KAW_PDI.png" width="600">
+<img src="KAW_PDI.png" width="700">
 
 Other works: 
 - nonlinear ion Compton scattering of toroidal Alfven eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its spectral cascading [Z.Cheng et al. 2025 NF]
