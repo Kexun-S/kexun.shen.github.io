@@ -16,12 +16,12 @@ Email: kxshen10@zju.edu.cn
 
 ## Scientific Interests
 
-1. mean-field theory, beam-plasma system
-2. wave turbulence, turbulence closure modeling
+1. mean-field theory, beam-plasma system, cosmic-ray streaming instability
+2. wave turbulence, turbulence closure modeling, solar wind
 3. coherent mode-coupling, parametric decay, modulation, soliton
-4. solar wind, cosmic ray, collisionless shock, tokamak, kinetic Alfven wave, Bell's Instability
+4. collisionless shock, tokamak, space plasma, astrophysical plasma
 5. analytical mechanics, statistical mechanics, classical field theory
-6. nonlinear gyrokinetics
+6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
 
 My research interests lie in fundamental nonlinear plasma physics problems that can be treated by self-consistent theory and/or closure models, e.g., quasi-linear theory, field-theoretic (mean-field) approach, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation. I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid, or kinetic models. I am also interested in the applicability boundaries between different models/nonlinear theories. 
