@@ -52,13 +52,13 @@ Imbalanced Strong Kinetic-Alfvenic Turbulence
 Imbalanced Weak Kinetic-Alfvenic Turbulence
 -->
 
-- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): The PMF as a mean-field leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect.
+- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent mean-field theory is developed to compare quantitatively with simulations.
 
 <img src="effect_PMF.png" width="800">
 
-## Recent Work 2: Solar Wind, Kinetic Alfvenic Turbulence
+## Recent Work 2: Solar Wind, Kinetic-Alfvenic Turbulence
 
-- Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. [K.Shen et al. 2024 PoP]
+- Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. An inverse-type decay identified for the counter-propagating case. [K.Shen et al. 2024 PoP]
 
 <img src="KAW_PDI.png" width="700">
 
