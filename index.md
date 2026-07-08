@@ -40,7 +40,7 @@ Here are several aspects I would look into when facing a physics problem:
 - INAF - Osservatorio Astrofisico di Arcetri, joint-PhD, 2025-2026
 - Zhejiang University, School of Physics & CKC, BSc, 2019-2023
 
-## Recent Works
+## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
 
 <!--
 Mean-Field Theory for Cosmic-Ray Streaming Instabilities
@@ -56,9 +56,11 @@ Imbalanced Weak Kinetic-Alfvenic Turbulence
 
 <img src="effect_PMF.png" width="800">
 
+## Recent Work 2: Solar Wind, Kinetic Alfvenic Turbulence
+
 - Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. [K.Shen et al. 2024 PoP]
 
 <img src="KAW_PDI.png" width="700">
 
-Other works: 
+## Other Works: 
 - Nonlinear Ion Compton Scattering of Toroidal Alfven Eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its Spectral Cascading [Z.Cheng et al. 2025 NF]
