@@ -52,7 +52,7 @@ Imbalanced Strong Kinetic-Alfvenic Turbulence
 Imbalanced Weak Kinetic-Alfvenic Turbulence
 -->
 
-- Effect of Parallel Mean Flow on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): 
+- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's Instability): The PMF as a mean-field leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect.
 
 <img src="effect_PMF.png" width="800">
 
