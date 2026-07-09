@@ -49,7 +49,7 @@ Here are several aspects I would look into when facing a physics problem:
 
 - Saturation of Oblique Non-Resonant Streaming Instability due to Wave-Mean-Field Interaction in the MHD Regime: 
 -->
-- Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent mean-field theory is developed to compare quantitatively with simulations.
+- Effect of *Parallel Mean Flow* (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent *mean-field theory* is developed to compare quantitatively with simulations.
 
 <img src="effect_PMF.png" width="1000">
 
@@ -59,7 +59,7 @@ Here are several aspects I would look into when facing a physics problem:
 
 - Imbalanced Weak Kinetic-Alfvenic Turbulence
 -->
-- Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A dual-type decay identified for waves co-propagating in the same direction. An inverse-type decay identified for the counter-propagating case. [K.Shen et al. 2024 PoP]
+- Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A *dual-type decay* identified for waves co-propagating in the same direction. An inverse-type decay identified for the counter-propagating case. [K.Shen et al. 2024 PoP]
 
 <img src="KAW_PDI.png" width="700">
 
