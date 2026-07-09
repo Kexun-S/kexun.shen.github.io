@@ -47,7 +47,7 @@ Here are several aspects I would look into when facing a physics problem:
 
 - Nonlinear Landau Damping in Cosmic-Ray Streaming Instability:
 
-- Saturation of Oblique Non-Resonant Streaming Instability with Fixed Cosmic-Ray Dynamics: 
+- Saturation of Oblique Non-Resonant Streaming Instability due to Wave-Mean-Field Interaction in the MHD Regime: 
 -->
 - Effect of Parallel Mean Flow (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping of fluctuations due to the Doppler-shift effect. A self-consistent mean-field theory is developed to compare quantitatively with simulations.
 
