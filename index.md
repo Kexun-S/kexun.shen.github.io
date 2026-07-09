@@ -66,6 +66,8 @@ Here are several aspects I would look into when facing a physics problem:
 ## Other Works: 
 - Nonlinear Ion Compton Scattering of Toroidal Alfven Eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its Spectral Cascading [Z.Cheng et al. 2025 NF]
 
+<img src="ZCheng_ICS.png" width="1000">
+
 ## Conferences
 
 - EPS-DPP 2026, Edinburgh, UK - poster - Stationary power-law solutions of weak kinetic-Alfvenic turbulence
