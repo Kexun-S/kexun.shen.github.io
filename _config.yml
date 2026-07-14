@@ -16,7 +16,7 @@ author:
       url: https://orcid.org/0000-0002-0512-6273
     - label: CV
       icon: fas fa-file-pdf
-      url: English_CV.pdf
+      url: English_CV.pdf 
       
 markdown: kramdown
 kramdown:
