@@ -1,5 +1,6 @@
 title: Kexun Shen
 description:  
+
 author:
   name: 沈可勋
   avatar: photo1.jpg
@@ -13,12 +14,12 @@ author:
     - label: ORCID
       icon: fab fa-orcid
       url: https://orcid.org/0000-0002-0512-6273
+
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  
 remote_theme: mmistakes/minimal-mistakes
-
-minimal_mistakes_skin: "mint"
 
 plugins:
   - jekyll-include-cache
