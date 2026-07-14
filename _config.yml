@@ -14,6 +14,8 @@ author:
       icon: fab fa-orcid
       url: https://orcid.org/0000-0002-0512-6273
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
