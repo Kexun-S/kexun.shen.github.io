@@ -12,7 +12,7 @@ author_profile: true
 - [ORCID](https://orcid.org/0000-0002-0512-6273)
 -->
 
-- Work Email: kxshen10@zju.edu.cn
+- Work Email: kxshen10@zju.edu.cn, kexun.shen@inaf.it
 - Personal Email: shenkexun@gmail.com
 
 ## Scientific Interests
@@ -44,6 +44,10 @@ Here are several aspects I would look into when facing a physics problem:
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
 <!--
+- Mean-Field Theory for the Saturation of Cosmic-Ray Streaming Instability: 
+
+- Cosmic-Ray Streaming Instability - a Beam-Plasma Perspective:
+
 - Saturation of Cosmic-Ray Non-Resonant Streaming Instability (NRSI, also known as the Bell's instability):
 
 - Nonlinear Landau Damping in Cosmic-Ray Streaming Instability:
@@ -64,7 +68,7 @@ Here are several aspects I would look into when facing a physics problem:
 
 <img src="KAW_PDI.png" width="1000">
 
-## Other Works: 
+## Other Works: Tokamak Plasma
 - Nonlinear Ion Compton Scattering of Toroidal Alfven Eigenmodes (TAEs) [Z.Cheng et al. 2024 NF] in MCF and its Spectral Cascading [Z.Cheng et al. 2025 NF]
 
 <img src="ZCheng_ICS.png" width="1000">
