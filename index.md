@@ -2,7 +2,8 @@
 layout: single
 classes: wide
 author_profile: true
-permalink: /
+title: "About Me"
+permalink: /aboutme
 --- 
 
 <!--
