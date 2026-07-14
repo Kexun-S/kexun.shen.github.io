@@ -44,6 +44,8 @@ Here are several aspects I would look into when facing a physics problem:
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
 <!--
+- Non-Perturbative Treatment of Particle Acceleration in Collisionless Shocks
+
 - Mean-Field Theory for the Saturation of Cosmic-Ray Streaming Instability: 
 
 - Cosmic-Ray Streaming Instability - a Beam-Plasma Perspective:
