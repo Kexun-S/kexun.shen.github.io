@@ -1,8 +1,5 @@
 title: Kexun Shen
 description:  
-
-minimal_mistakes_skin: "air"
-
 author:
   name: 沈可勋
   avatar: photo1.jpg
@@ -20,6 +17,9 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 remote_theme: mmistakes/minimal-mistakes
+
+minimal_mistakes_skin: "mint"
+
 plugins:
   - jekyll-include-cache
   - jekyll-sitemap
