@@ -1,13 +1,10 @@
 title: Kexun Shen
-description: Nonlinear Phenomena and Statistical Mechanics in Plasma Physics 
-url: https://kexun-s.github.io
-baseurl: ""
-repository: kexun-s/kexun.shen.github.io
+description:  
 author:
   name: 沈可勋
   avatar: photo1.jpg
   email: kxshen10@zju.edu.cn
-  bio: "PhD Student in Zhejiang University"
+  bio: "Nonlinear Phenomena and Statistical Mechanics in Plasma Physics | PhD Student in Zhejiang University"
   location: "Hangzhou, Zhejiang, PRC"
   links:
     - label: Google Scholar
