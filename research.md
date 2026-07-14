@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 title: "Research"
-permalink: /research/ 
+permalink: / 
 ---
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
