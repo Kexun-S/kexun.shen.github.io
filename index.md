@@ -55,9 +55,9 @@ Here are several aspects I would look into when facing a physics problem:
 
 ## Recent Work 2: Solar Wind, Kinetic-Alfvenic Turbulence
 <!--
-- Imbalanced Strong Kinetic-Alfvenic Turbulence
+- Imbalanced Strong Kinetic-Alfvenic Turbulence - EDQNM
 
-- Imbalanced Weak Kinetic-Alfvenic Turbulence
+- Imbalanced Weak Kinetic-Alfvenic Turbulence - WTT (QNM)
 -->
 - Resonant Decay among Three Kinetic Alfven Waves (KAWs): The resonant parametric decay instability among three KAWs investigated using nonlinear gyrokinetic theory. A *dual-type decay* identified for waves co-propagating in the same direction. An inverse-type decay identified for the counter-propagating case. [K.Shen et al. 2024 PoP]
 
