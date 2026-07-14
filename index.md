@@ -12,9 +12,8 @@ author_profile: true
 - [ORCID](https://orcid.org/0000-0002-0512-6273)
 -->
 
-Work Email: kxshen10@zju.edu.cn
-
-Personal Email: shenkexun@gmail.com
+- Work Email: kxshen10@zju.edu.cn
+- Personal Email: shenkexun@gmail.com
 
 ## Scientific Interests
 
