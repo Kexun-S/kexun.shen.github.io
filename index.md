@@ -4,7 +4,7 @@ classes: wide
 author_profile: true
 title: "About Me"
 permalink: /
----
+--- 
 
 <!--
 # Information 
