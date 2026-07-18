@@ -14,6 +14,7 @@ Plasma Physics:
 - Theory of turbulent plasma, by A. A. Vedenov, 1964
 - Waves and instabilities in plasmas, by L. Chen, 1987
 - Plasma instabilities and nonlinear effects, by A. Hasegawa, 1975
+- Theoretical plasma physics, by A. N. Kaufman and B. I. Cohen, JPP, 2019
 - Methods in nonlinear plasma theory, by R. C. Davidson, 1972
 - Nonlinear effects in plasma, by V. N. Tsytovich, 1970
 - An introduction to the theory of plasma turbulence, by V. N. Tsytovich, 1972
