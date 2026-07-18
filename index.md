@@ -15,10 +15,12 @@ permalink: /aboutme/
 1. mean-field theory, beam-plasma system, cosmic-ray streaming instability
 2. wave turbulence, turbulence closure modeling, plasma kinetic turbulence
 3. coherent mode-coupling, parametric decay, modulation, soliton
-4. collisionless shock, tokamak, solar wind
+4. collisionless shock, tokamak, solar wind, cosmic-ray physics
 5. analytical mechanics, statistical mechanics, classical field theory
 6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
+
+
 
 ## Research Style
 
