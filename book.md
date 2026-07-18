@@ -19,7 +19,7 @@ Plasma Physics:
 - An introduction to the theory of plasma turbulence, by V. N. Tsytovich, 1972
 - Theory of turbulent plasma, by V. N. Tsytovich, 1977
 - Lectures on non-linear plasma kinetics, by V. N. Tsytovich, 1995
-- Modern plasma physics volume 1: physical kinetics of turbulent plasmas, by P. H. Diamond et al., 2010
+- Modern plasma physics: physical kinetics of turbulent plasmas, by P. H. Diamond et al., 2010
 - Space plasma physics: stationary processes, by A. Hasegawa and T. Sato, 1989
 
 
