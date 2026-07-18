@@ -18,6 +18,7 @@ Plasma Physics:
 - Theory of turbulent plasma, by V. N. Tsytovich, 1977
 - Lectures on non-linear plasma kinetics, by V. N. Tsytovich, 1995
 - Modern plasma physics volume 1: physical kinetics of turbulent plasmas, by P. H. Diamond et al., 2010
+- Space plasma physics: stationary processes, by A. Hasegawa and T. Sato, 1989
 
 Wave Turbulence:
 - Kolmogorov spectra of turbulence 1. Wave turbulence, by V. E. Zakharov et al., 1992 (Kolmogorov-Zakharov spectra of turbulence, 2025)
