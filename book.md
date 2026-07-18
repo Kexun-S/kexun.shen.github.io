@@ -10,6 +10,11 @@ permalink: /books/
 - Plasma turbulence, by B. B. Kadomtsev, 1965
 - Theory of turbulent plasma, by A. A. Vedenov, 1964
 - Waves and instabilities in plasmas, by L. Chen, 1987
+- Methods in nonlinear plasma theory, by R. C. Davidson, 1972
+- Nonlinear effects in plasma, by V. N. Tsytovich, 1970
+- An introduction to the theory of plasma turbulence, by V. N. Tsytovich, 1972
+- Theory of turbulent plasma, by V. N. Tsytovich, 1977
+- Lectures on non-linear plasma kinetics, by V. N. Tsytovich, 1995
 - Modern plasma physics volume 1: physical kinetics of turbulent plasmas, by P. H. Diamond et al., 2010
 
 
