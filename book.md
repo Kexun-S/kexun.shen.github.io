@@ -7,7 +7,7 @@ permalink: /books/
 --- 
 
 
-Plasma Physics:
+Theoretical Plasma Physics:
 
 - Nonlinear plasma theory, by R. Z. Sagdeev and A. Galeev, 1969
 - Plasma turbulence, by B. B. Kadomtsev, 1965
@@ -36,4 +36,10 @@ Turbulence:
 
 - Turbulence: the legacy of A. N. Kolmogorov, by U. Frisch, 1996
 - Turbulence in fluids, by M. Lesieur, 2008
+
+
+Others:
+
+- Lectures on statistical mechanics, by A. N. Kaufman et al., JPP, 2025
+
 
