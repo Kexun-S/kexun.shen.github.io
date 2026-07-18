@@ -2,8 +2,8 @@ main:
   - title: "Research"
     url: /
   - title: "About Me"
-    url: /aboutme
+    url: /aboutme/
   - title: "Conference"
     url: /conference/
   - title: "Book List"
-    url: /books
+    url: /books/
