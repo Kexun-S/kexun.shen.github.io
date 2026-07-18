@@ -41,5 +41,6 @@ Turbulence:
 Others:
 
 - Lectures on statistical mechanics, by A. N. Kaufman et al., JPP, 2025
+- Renormalization methods: a guide for beginners, by W. D. McComb, 2004
 
 
