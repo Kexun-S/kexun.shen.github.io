@@ -8,7 +8,7 @@ permalink: /aboutme/
 
 - Work Email: kxshen10@zju.edu.cn, kexun.shen@inaf.it
 - Personal Email: shenkexun@gmail.com
-- [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)  [ORCID](https://orcid.org/0000-0002-0512-6273)
+- [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)    [ORCID](https://orcid.org/0000-0002-0512-6273)
 
 ## Scientific Interests
 
@@ -20,7 +20,7 @@ permalink: /aboutme/
 6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
 
-
+2026 Fields Medal awarded to Yu Deng further emphasized the relation between (Boltzmann) kinetic theory and wave turbulence theory [Hilbert Sixth Problem](https://youtu.be/4AUrECkGWiQ?si=ig2TXmQ0PwOOHVbC)
 
 ## Research Style
 
