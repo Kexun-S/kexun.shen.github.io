@@ -3,7 +3,7 @@ layout: single
 classes: wide
 author_profile: true
 title: "Contact Me"
-permalink: /aboutme
+permalink: /aboutme/
 --- 
 
 - Work Email: kxshen10@zju.edu.cn, kexun.shen@inaf.it
