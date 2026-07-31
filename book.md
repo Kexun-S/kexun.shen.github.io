@@ -41,6 +41,7 @@ Turbulence:
 Others:
 
 - Lectures on statistical mechanics, by A. N. Kaufman et al., JPP, 2025
+- Lectures on kinetic theory and magnetohydrodynamics of plasmas, by A. A. Schekochihin
 - Renormalization methods: a guide for beginners, by W. D. McComb, 2004
 - Regular and chaotic dynamics, by A. J. Lichtenberg and M. A. Lieberman, 1992
 
