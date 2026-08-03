@@ -26,7 +26,7 @@ I have been working on space, astrophysical, and laboratory plasmas described by
 
 - Saturation of Cosmic-Ray Non-Resonant Streaming Instability due to the Deceleration and Scattering of Particles:
 -->
-- Effect of *Parallel Mean Flow* (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping (sweeping) of fluctuations due to the Doppler-shift effect. A self-consistent *mean-field theory* is developed to compare quantitatively with simulations.
+- Effect of *Parallel Mean Flow* (PMF) on the Cosmic-Ray Non-Resonant Streaming Instability: The PMF as a mean-field is nonlinearly beat-driven by non-resonant fluctuations, and leads to the saturation of NRSI in the MHD regime and the frequency-chirping (sweeping) of fluctuations due to the Doppler-shift effect. A self-consistent *mean-field theory* is developed to compare both qualitatively and quantitatively with simulations.
 
 <img src="effect_PMF.png" width="1000">
 
