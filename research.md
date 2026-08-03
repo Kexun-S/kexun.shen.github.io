@@ -8,7 +8,7 @@ permalink: /
 
 My research interests lie in fundamental nonlinear plasma physics problems that can be treated by self-consistent theory and/or closure models, e.g., quasi-linear theory, field-theoretic (mean-field) approach, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
 
-I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid, or kinetic models. I am also interested in the applicability boundaries between different models/nonlinear theories. 
+I was trained mostly in the MCF area. I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid, or kinetic models. I am also interested in the applicability boundaries between different models/nonlinear theories. 
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
 <!--
