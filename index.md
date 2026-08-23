@@ -20,7 +20,9 @@ permalink: /aboutme/
 6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
 
+<!--
 2026 Fields Medal awarded to Yu Deng further emphasized the relation between (Boltzmann) kinetic theory and wave turbulence theory [Hilbert Sixth Problem](https://youtu.be/4AUrECkGWiQ?si=ig2TXmQ0PwOOHVbC)
+-->
 
 ## Research Style
 
