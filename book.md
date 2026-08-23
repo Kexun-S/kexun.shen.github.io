@@ -16,6 +16,7 @@ Theoretical Plasma Physics:
 - Plasma instabilities and nonlinear effects, by A. Hasegawa, 1975
 - Theoretical plasma physics, by A. N. Kaufman and B. I. Cohen, JPP, 2019
 - Methods in nonlinear plasma theory, by R. C. Davidson, 1972
+- Statistical plasma physics volume I: basic principles, by S. Ichimaru, 1992
 - Nonlinear effects in plasma, by V. N. Tsytovich, 1970
 - An introduction to the theory of plasma turbulence, by V. N. Tsytovich, 1972
 - Theory of turbulent plasma, by V. N. Tsytovich, 1977
