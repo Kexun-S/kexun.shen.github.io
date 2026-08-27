@@ -17,6 +17,8 @@ Theoretical Plasma Physics:
 - Theoretical plasma physics, by A. N. Kaufman and B. I. Cohen, JPP, 2019
 - Methods in nonlinear plasma theory, by R. C. Davidson, 1972
 - Statistical plasma physics volume I: basic principles, by S. Ichimaru, 1992
+- Fundamental statistical descriptions of plasma turbulence in magnetic fields, by J. A. Krommes, PR, 2002
+- A tutorial introduction to the statistical theory of turbulent plasmas, a half-century after Kadomtsev’s Plasma Turbulence and the resonance-broadening theory of Dupree and Weinstock, by J. A. Krommes, JPP, 2015
 - Nonlinear effects in plasma, by V. N. Tsytovich, 1970
 - An introduction to the theory of plasma turbulence, by V. N. Tsytovich, 1972
 - Theory of turbulent plasma, by V. N. Tsytovich, 1977
@@ -46,6 +48,7 @@ Others:
 
 - Lectures on statistical mechanics, by A. N. Kaufman et al., JPP, 2025
 - Lectures on kinetic theory and Magnetohydrodynamics of plasmas, by A. A. Schekochihin
+- Plasma physics for astrophysics, by R. M. Kulsrud, 2005
 - The Fokker-Planck equation: methods of solution and applications, by H. Risken, 1984
 - Stochastic processes in physics and chemistry, by N. G. Van Kampen
 - Renormalization methods: a guide for beginners, by W. D. McComb, 2004
