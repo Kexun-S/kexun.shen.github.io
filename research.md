@@ -6,7 +6,7 @@ title: "Research"
 permalink: / 
 ---
 
-My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory and/or closure models, e.g., quasi-linear theory, field-theoretic (mean-field) approach, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
+My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory and/or renormalized closure models, e.g., quasi-linear theory, field-theoretic (mean-field) approach, weak turbulence, dynamo, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
 
 I was trained primarily in the magnetic confinement fusion (MCF) area, with a focus on nonlinear wave-wave interactions, zonal structures, and energetic-particle transport related to Alfvenic instabilities in tokamak plasmas using nonlinear gyrokinetics. 
 
