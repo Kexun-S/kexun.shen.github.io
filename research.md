@@ -10,7 +10,7 @@ My research interests lie in fundamental nonlinear plasma physics problems that 
 
 I have been working on astrophysical, space, and laboratory plasmas described by fluid, (gyro-)kinetic, or hybrid models. I am also interested in the applicability boundaries between different models and nonlinear theories. 
 
-I was trained initially in the magnetic confinement fusion (MCF) area, and my team focused on nonlinear wave-wave interactions, zonal structures, and energetic-particle transport related to Alfvenic instabilities in tokamak plasmas using nonlinear gyrokinetics. 
+I was trained initially in the magnetic confinement fusion (MCF) area, and my team focused on nonlinear wave-wave interactions, zonal structures, and energetic-particle transport related to Alfvenic instabilities in tokamak plasmas using nonlinear gyrokinetics. I got interested in space and astrophysical plasmas later during my PhD. 
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray Streaming Instability
 <!--
