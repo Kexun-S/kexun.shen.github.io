@@ -8,19 +8,21 @@ permalink: /aboutme/
 
 - Work Email: kxshen10@zju.edu.cn, kexun.shen@inaf.it
 - Personal Email: shenkexun@gmail.com
-- [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)    [ORCID](https://orcid.org/0000-0002-0512-6273)
+- [Google Scholar](https://scholar.google.com/citations?user=PKmlMXkAAAAJ&hl=en)
+- [ORCID](https://orcid.org/0000-0002-0512-6273)
 
 ## Scientific Interests
 
-1. mean-field theory, beam-plasma system, cosmic-ray streaming instability
+1. beam-plasma system, cosmic-ray streaming instability, transport theory
 2. wave turbulence, turbulence closure modeling, plasma kinetic turbulence
-3. coherent mode-coupling, parametric decay, modulation, soliton
-4. collisionless shock, tokamak, solar wind, cosmic-ray physics
-5. analytical mechanics, statistical mechanics, classical field theory
+3. parametric decay, modulation, soliton
+4. cosmic-ray physics, solar wind, tokamak 
+5. statistical mechanics, classical field theory
 6. nonlinear gyrokinetics, kinetic Alfven wave
 7. numerical simulation (HPC)
 
 <!--
+- mean-field theory, coherent mode-coupling, analytical mechanics
 2026 Fields Medal awarded to Yu Deng further emphasized the relation between (Boltzmann) kinetic theory and wave turbulence theory [Hilbert Sixth Problem](https://youtu.be/4AUrECkGWiQ?si=ig2TXmQ0PwOOHVbC)
 -->
 
