@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 author_profile: true
-title: "Books and Reviews"
+title: "Books and Reviews that I recommend"
 permalink: /books/
 --- 
 
