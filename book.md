@@ -39,9 +39,6 @@ Turbulence:
 
 - Turbulence: the legacy of A. N. Kolmogorov, by U. Frisch, 1996
 - Turbulence in fluids, by M. Lesieur, 2008
-- Magnetohydrodynamic turbulence, by D. Biskamp
-- Nonlinear Magnetohydrodynamics, by D. Biskamp
-- Magnetic reconnection in plasmas, by D. Biskamp
 
 
 Others:
@@ -49,6 +46,9 @@ Others:
 - Lectures on statistical mechanics, by A. N. Kaufman et al., JPP, 2025
 - Lectures on kinetic theory and Magnetohydrodynamics of plasmas, by A. A. Schekochihin
 - Plasma physics for astrophysics, by R. M. Kulsrud, 2005
+- Magnetohydrodynamic turbulence, by D. Biskamp
+- Nonlinear Magnetohydrodynamics, by D. Biskamp
+- Magnetic reconnection in plasmas, by D. Biskamp
 - The Fokker-Planck equation: methods of solution and applications, by H. Risken, 1984
 - Stochastic processes in physics and chemistry, by N. G. Van Kampen
 - Renormalization methods: a guide for beginners, by W. D. McComb, 2004
