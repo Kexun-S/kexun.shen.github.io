@@ -24,6 +24,7 @@ permalink: /aboutme/
 2026 Fields Medal awarded to Yu Deng further emphasized the relation between (Boltzmann) kinetic theory and wave turbulence theory [Hilbert Sixth Problem](https://youtu.be/4AUrECkGWiQ?si=ig2TXmQ0PwOOHVbC)
 -->
 
+<!--
 ## Research Style
 
 Here are several aspects I would look into when facing a physics problem:
@@ -32,6 +33,7 @@ Here are several aspects I would look into when facing a physics problem:
 - linear stability and equilibrium
 - nonlinear dynamics and spectral evolution
 - non-equilibrium process, statistical properties, and entropy production 
+-->
 
 ## Education
 
