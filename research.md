@@ -12,7 +12,7 @@ I was trained primarily in the magnetic confinement fusion (MCF) area, with a fo
 
 I have been working on space, astrophysical, and laboratory plasmas described by fluid, gyrokinetic, hybrid, or kinetic models. I am also interested in the applicability boundaries between different models and nonlinear theories. 
 
-## Recent Work 1: Collisionless Shock, Cosmic-Ray-Driven Instability
+## Recent Work 1: Collisionless Shock, Cosmic-Ray Streaming Instability
 <!--
 - Non-Perturbative Treatment of Particle Acceleration in Collisionless Shocks
 
