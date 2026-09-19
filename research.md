@@ -6,11 +6,13 @@ title: "Research"
 permalink: / 
 ---
 
-My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory, renormalized closures, and field-theoretic techniques, e.g., quasi-linear theory, mean-field approach, weak turbulence, dynamo, resonance broadening, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
+My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory, renormalized closures, and field-theoretic techniques, e.g., QLT, MFT, WTT, dynamo, RBT, EDQNM, DIA, and MSR. 
 
 I have been working on astrophysical, space, and laboratory plasmas described by fluid, (gyro-)kinetic, or hybrid models. I am also interested in the applicability boundaries between different models and nonlinear theories. 
 
+<!--
 I was trained initially in the magnetic confinement fusion (MCF) area, and my team focused on nonlinear wave-wave interactions, zonal structures, and energetic-particle transport related to Alfvenic instabilities in tokamak plasmas using nonlinear gyrokinetics. I got interested in space and astrophysical plasmas later during my PhD. Kinetic Alfven wave was my first topic. Plasma physics in cosmic-ray astrophysics was my second playground. 
+-->
 
 ## Recent Work 1: Collisionless Shock, Cosmic-Ray Streaming Instability
 <!--
