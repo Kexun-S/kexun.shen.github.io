@@ -6,7 +6,7 @@ title: "Research"
 permalink: / 
 ---
 
-My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory and/or renormalized closure models, e.g., quasi-linear theory, mean-field approach, weak turbulence, dynamo, resonance broadening, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
+My research interests lie in fundamental nonlinear plasma physics problems that can be addressed using self-consistent theory, renormalized closures, and field-theoretic techniques, e.g., quasi-linear theory, mean-field approach, weak turbulence, dynamo, resonance broadening, and eddy-damped quasi-normal Markovian (EDQNM) approximation. 
 
 I have been working on astrophysical, space, and laboratory plasmas described by fluid, (gyro-)kinetic, or hybrid models. I am also interested in the applicability boundaries between different models and nonlinear theories. 
 
