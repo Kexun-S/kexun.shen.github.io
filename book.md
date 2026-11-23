@@ -37,6 +37,7 @@ Wave Turbulence:
 
 Turbulence:
 
+- The physics of fluid turbulence, by W. D. McComb, 1992
 - Turbulence: the legacy of A. N. Kolmogorov, by U. Frisch, 1996
 - Turbulence in fluids, by M. Lesieur, 2008
 
