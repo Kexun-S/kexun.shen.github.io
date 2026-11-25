@@ -6,7 +6,7 @@ title: "Conference, Workshop, Visit and Talks"
 permalink: /conference/
 ---
 
-- Arcetri Workshop on Plasma Astrophysics, Firenze, Italy - oral talk - Effect of mean fields on the cosmic-ray non-resonant streaming instability 
+- Arcetri 2026 Workshop on Plasma Astrophysics, Firenze, Italy - oral talk - Effect of mean fields on the cosmic-ray non-resonant streaming instability 
 - Gran Sasso Science Institute (GSSI), L'Aquila, Italy - visiting scientist - [How mean fields saturate the cosmic-ray non-resonant streaming instability](MFT_NRSI_GSSI.pdf)
 - CROCA-3 2026, Nice, France - attendee
 - European Physical Society Plasma Physics Conference (EPS-DPP) 2026, Edinburgh, UK - poster - [Stationary power-law solutions of weak kinetic-Alfvenic turbulence](poster_KShen_KAWT.pdf)
